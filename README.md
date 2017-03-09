@@ -1,4 +1,6 @@
 # pure-redux-router-link
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/faceyspacey/pure-redux-router-link.svg)](https://greenkeeper.io/)
 A simple but effective `<Link />` component for [pure-redux-router](https://github.com/faceyspacey/pure-redux-router) (better for SEO rather than dispatching yourself)
 
 
